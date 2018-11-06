@@ -14,13 +14,19 @@
 
 本爬虫爬到数据后，插入MongoDB中。
 安装好相关的依赖包后，
- requests
- pymongo
- json
- time
- random
- string
- configparser
+ 1：requests
+ 
+ 2：pymongo
+ 
+ 3：json
+ 
+ 4：time
+ 
+ 5：random
+ 
+ 6：string
+ 
+ 7：configparser
 
 运行方法：直接运行对应的py文件即可开始爬虫。
 注意：IT桔子有VIP账号校验，因此，你需要购买VIP，将你的账号，密码写入config.ini文件中
