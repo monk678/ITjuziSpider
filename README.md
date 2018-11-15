@@ -32,4 +32,4 @@
 运行方法：直接运行对应的py文件即可开始爬虫。
 注意：IT桔子有VIP账号校验，因此，你需要购买VIP，将你的账号，密码写入config.ini文件中
 
-爬虫方法，请查看我的博客：www.siyuanblog.com
+爬虫方法，请查看我的博客：http://www.siyuanblog.com/?p=1118
